@@ -1,0 +1,1 @@
+A lightweight web app that lets you save and manage a list of leads (links or any text input) by clicking “Save Input” or “Save Tab,” stores them in localStorage for persistence, and offers a double-click “Delete All” button to clear the list.
